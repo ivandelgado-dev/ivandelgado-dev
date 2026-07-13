@@ -21,7 +21,7 @@ Lo que me diferencia: vengo del desarrollo, lo que me permite abordar los datos 
 **[Modelo de Fidelización – Online Retail II](https://github.com/ivandelgado-dev/ml-retail-recompra-master-datascienceai)** — *Python · Scikit-learn · XGBoost · Optuna*
 Modelo de clasificación binaria para predecir recompra sobre ~1M de transacciones. Variables RFM construidas desde cero, comparativa entre Regresión Logística, Random Forest y XGBoost. AUC final: **0.783**. Optimización con Grid Search, Random Search y Optuna.
 
-**[NLP Reviews Trustpilot – Back Market](https://github.com/ivandelgado-dev/nlp-reviews-trustpilot)** — *Python · VADER · DistilBERT · TF-IDF · NMF*
+**[NLP Reviews Trustpilot – Back Market](https://github.com/ivandelgado-dev/nlp-reviews-trustpilot-master-datascienceai))** — *Python · VADER · DistilBERT · TF-IDF · NMF*
 Análisis de sentimiento y detección de temas sobre **123.000+ reseñas** de Trustpilot. Back Market tiene un **46% de reseñas negativas**, 7 puntos por encima de la media del sector. Diagnóstico concentrado en atención al cliente y gestión de garantías.
 
 **[AdventureWorks Sales – Microsoft Fabric & Power BI](https://github.com/ivandelgado-dev/adventureworks-powerbi-fabric-master-datascienceai)** — *PySpark · Delta Lake · DAX · Power BI*
